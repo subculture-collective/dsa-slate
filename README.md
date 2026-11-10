@@ -63,9 +63,11 @@ deploy beyond the scaffold yet.
 
 ## Contributing
 
-Open a pull request on GitHub against `main`. See
-[CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md). CI runs
-`make verify` on every pull request.
+- Bugs and feature requests: [GitHub issues](https://github.com/subculture-collective/dsa-slate/issues).
+- Code: open a pull request on GitHub against `main`. CI runs `make verify` on
+  every pull request.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md).
 
 ## License
 
